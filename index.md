@@ -10,4 +10,44 @@ O objetivo dessa documentação é relatar meu processo de se conectar em uma in
 
 Slide da aula.
 
+# Método
 
+Inicialmente, vamos executar a instância clicando em "Executar Instância":
+
+<img src="Executar.png">
+
+Depois colocamos um nome na instância:
+
+<img src='Nome.png'>
+
+Selecionamos o Ubuntu:
+
+<img src='Ubuntu.png'>
+
+Criamos um par de chaves:
+
+<img src='Criando_chave.png'>
+
+Permitindo o trafego ssh e http:
+
+<img src='Permitindo.png'>
+
+Agora apertamos em "Executar instância":
+
+<img src='Executar.png'>
+
+Em "Instâncias" acessamos a instância que acabamos de criar:
+
+<img src='Entrando.png'>
+
+E se conectamos a instância:
+
+<img src='Conectar.png'>
+
+Após colocar o comando  ssh -i "ponderada2-key.pem" ubuntu@ec2-44-211-208-171.compute-1.amazonaws.com na diretorio das chaves anteriomente criadas, apareceu isso:
+
+<img src='Conectando_ssh.png'>
+
+IP máquina:
+
+<img src='IP.png'>
