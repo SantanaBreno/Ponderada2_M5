@@ -51,3 +51,11 @@ Após colocar o comando  ssh -i "ponderada2-key.pem" ubuntu@ec2-44-211-208-171.c
 IP máquina:
 
 <img src='IP.png'>
+
+# Resultado
+
+Seguindo os passos acima, consegui realizar a criação da instância como, também se conectar a ela.
+
+# Conclusão 
+
+O que podemos concluir é que para se conectar em uma instância do EC2 precisamos de um par de chave ssh.
