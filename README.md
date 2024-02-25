@@ -14,43 +14,43 @@ Slide da aula.
 
 Inicialmente, vamos executar a instância clicando em "Executar Instância":
 
-<img src="Executar.png">
+<img src="./img/Executar.png">
 
 Depois colocamos um nome na instância:
 
-<img src='Nome.png'>
+<img src='./img/Nome.png'>
 
 Selecionamos o Ubuntu:
 
-<img src='Ubuntu.png'>
+<img src='./img/Ubuntu.png'>
 
 Criamos um par de chaves:
 
-<img src='Criando_chave.png'>
+<img src='./img/Criando_chave.png'>
 
 Permitindo o trafego ssh e http:
 
-<img src='Permitindo.png'>
+<img src='./img/Permitindo.png'>
 
 Agora apertamos em "Executar instância":
 
-<img src='Executar.png'>
+<img src='./img/Executar.png'>
 
 Em "Instâncias" acessamos a instância que acabamos de criar:
 
-<img src='Entrando.png'>
+<img src='./img/Entrando.png'>
 
 E se conectamos a instância:
 
-<img src='Conectar.png'>
+<img src='./img/Conectar.png'>
 
 Após colocar o comando  ssh -i "ponderada2-key.pem" ubuntu@ec2-44-211-208-171.compute-1.amazonaws.com na diretorio das chaves anteriomente criadas, apareceu isso:
 
-<img src='Conectando_ssh.png'>
+<img src='./img/Conectando_ssh.png'>
 
 IP máquina:
 
-<img src='IP.png'>
+<img src='./img/IP.png'>
 
 # Resultado
 
